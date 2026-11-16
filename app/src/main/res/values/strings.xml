@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClearCam</string>
+    <string name="nav_cameras">กล้อง</string>
+    <string name="nav_device_cam">กล้องเครื่อง</string>
+    <string name="nav_gallery">คลังสื่อ</string>
+    <string name="nav_settings">ตั้งค่า</string>
+    <string name="cd_back">ย้อนกลับ</string>
+    <string name="cd_add_camera">เพิ่มกล้องใหม่</string>
+    <string name="cd_capture_photo">บันทึกภาพถ่าย</string>
+    <string name="cd_record_video">บันทึกวิดีโอ</string>
+    <string name="cd_flip_camera">สลับกล้องหน้าหลัง</string>
+    <string name="cd_camera_settings">ตั้งค่ากล้อง</string>
+</resources>

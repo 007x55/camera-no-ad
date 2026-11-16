@@ -1,0 +1,6 @@
+{
+  "name": "ClearCam",
+  "description": "Ad-free local IP & device camera viewer with local photo and video recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
